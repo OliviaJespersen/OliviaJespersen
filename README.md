@@ -27,6 +27,8 @@
 ## "Skills" (⁄ ⁄•⁄ω⁄•⁄ ⁄)
 <div align="center">
   <img src="resources/gif2.gif" width="350">
+  <br>
+  <br>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -43,6 +45,8 @@
 ## Socials OwO
 <div align="center">
   <img src="resources/gif3.gif" width="350">
+  <br>
+  <br>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)

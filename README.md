@@ -2,10 +2,11 @@
 
 # Hiiiiiiiiii, I'm **Olivia** >w<
 ### ❤ Working on dumb things when I don't have to be smart ❤
-
 </div>
 
-<img align="right" src="resources/gif1.gif" width="250">
+<br>
+
+<img align="right" src="resources/gif1.gif" width="300">
 
 - 🔭 I’m currently working on PushPals
 
@@ -17,9 +18,15 @@
 
 - 🖥️ Using MacOS (mainly ^-^)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## "Skills" (⁄ ⁄•⁄ω⁄•⁄ ⁄)
 <div align="center">
-  <img src="resources/gif2.gif" width="300">
+  <img src="resources/gif2.gif" width="350">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -35,7 +42,7 @@
 
 ## Socials OwO
 <div align="center">
-  <img src="resources/gif3.gif" width="300">
+  <img src="resources/gif3.gif" width="350">
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
@@ -50,6 +57,7 @@
   <img src="resources/gif4.gif" width="400">
 
   <br>
+  <br>
 
   <a href="https://x.com/Cutieanimator"><img src="resources/sarah.jpg" width="60" style="border-radius: 30px;">
   <a href="https://github.com/Marcus543211"><img src="resources/marcus.png" width="60" style="border-radius: 30px;">
@@ -58,7 +66,7 @@
   <a href="https://github.com/DrFisk0"><img src="resources/jonas.jpg" width="60" style="border-radius: 30px;">
 </div>
 
----
+<br>
 <br>
 <div align="center">
 

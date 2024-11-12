@@ -59,11 +59,11 @@
   <br>
   <br>
 
-  <a href="https://x.com/Cutieanimator"><img src="resources/sarah.jpg" width="60" style="border-radius: 30px;">
-  <a href="https://github.com/Marcus543211"><img src="resources/marcus.png" width="60" style="border-radius: 30px;">
-  <a href="https://github.com/snadster"><img src="resources/snaddy.jpg" width="60" style="border-radius: 30px;">
-  <a href="https://github.com/sofielofberg"><img src="resources/sofie.jpg" width="60" style="border-radius: 30px;">
-  <a href="https://github.com/DrFisk0"><img src="resources/jonas.jpg" width="60" style="border-radius: 30px;">
+  <a href="https://x.com/Cutieanimator"><img src="resources/sarah-modified.png" width="60">
+  <a href="https://github.com/Marcus543211"><img src="resources/marcus-modified.png" width="60">
+  <a href="https://github.com/snadster"><img src="resources/snaddy-modified.png" width="60">
+  <a href="https://github.com/sofielofberg"><img src="resources/sofie-modified.png" width="60">
+  <a href="https://github.com/DrFisk0"><img src="resources/jonas-modified.png" width="60">
 </div>
 
 <br>

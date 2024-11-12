@@ -5,9 +5,7 @@
 
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 10px;">
-    <p>
+<img align="right" src="resources/gif1.gif" width="250">
 
 - 🔭 I’m currently working on PushPals
 
@@ -18,13 +16,6 @@
 - 🐶 Arf!
 
 - 🖥️ Using MacOS (mainly ^-^)
-
-    </p>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="resources/gif1.gif" width="250">
-  </div>
-</div>
 
 ## "Skills" (⁄ ⁄•⁄ω⁄•⁄ ⁄)
 <div align="center">

@@ -67,6 +67,7 @@
   <a href="https://github.com/snadster"><img src="resources/snaddy-modified.png" width="60">
   <a href="https://github.com/sofielofberg"><img src="resources/sofie-modified.png" width="60">
   <a href="https://github.com/DrFisk0"><img src="resources/jonas-modified.png" width="60">
+  <a href="https://bsky.app/profile/gerewodezyakyry.bsky.social"><img src="resources/lea-modified.png" width="60">
 </div>
 
 <br>

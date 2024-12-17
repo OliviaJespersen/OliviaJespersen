@@ -58,12 +58,13 @@
   <br>
   <br>
 
-  <a href="https://x.com/Cutieanimator"><img src="resources/sarah-modified.png" width="60">
-  <a href="https://github.com/Marcus543211"><img src="resources/marcus-modified.png" width="60">
-  <a href="https://github.com/snadster"><img src="resources/snaddy-modified.png" width="60">
-  <a href="https://github.com/sofielofberg"><img src="resources/sofie-modified.png" width="60">
-  <a href="https://github.com/DrFisk0"><img src="resources/jonas-modified.png" width="60">
-  <a href="https://bsky.app/profile/gerewodezyakyry.bsky.social"><img src="resources/lea-modified.png" width="60">
+  <a href="https://x.com/Cutieanimator"><img src="resources/sarah.png" width="60">
+  <a href="https://github.com/Marcus543211"><img src="resources/marcus.png" width="60">
+  <a href="https://github.com/snadster"><img src="resources/snaddy.png" width="60">
+  <a href="https://github.com/sofielofberg"><img src="resources/sofie.png" width="60">
+  <a href="https://github.com/DrFisk0"><img src="resources/jonas.png" width="60">
+  <a href="https://bsky.app/profile/gerewodezyakyry.bsky.social"><img src="resources/ray.png" width="60">
+  <a href="https://www.jolenecoda.com/"><img src="resources/jolene.png" width="60">
 </div>
 
 <br>

@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on PushPals
 
-- 🌱 I’m currently learning C, Haskell, Machine learning and Jupyter Notebook
+- 🌱 I’m currently learning web development and system programming in Linux
 
 - 🤝 I’m looking for help with my mental health :3
 
@@ -37,6 +37,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 </div>
 
 ## Socials OwO

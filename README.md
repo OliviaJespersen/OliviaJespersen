@@ -18,7 +18,6 @@
 
 ## Friends ^-^ ♡
 <div align="center">
-  <img src="resources/gif3.gif" width="350">
   <img src="resources/gif4.gif" width="400">
 
   <br>
@@ -32,4 +31,5 @@
   <a href="https://bsky.app/profile/gerewodezyakyry.bsky.social"><img src="resources/ray.png" width="60">
   <a href="https://www.jolenecoda.com/"><img src="resources/jolene.png" width="60">
   <a href="https://www.youtube.com/@LadyVelvetASMR"><img src="resources/ladyvelvet.png" width="60">
+  <a href="https://store.steampowered.com/app/1262350/SIGNALIS/"><img src="resources/lilith.png" width="60">
 </div>
